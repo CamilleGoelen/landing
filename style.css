@@ -1,0 +1,68 @@
+#banner {
+	background-color: black;
+	color: white;
+	padding: 8%;
+	font-size: 150%;
+}
+
+#novel-collec {
+	display: inline-block;
+	justify-content: center ;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#novelties {
+	background-color: black;
+	color: white;
+	margin: 5%;
+	flex-wrap: wrap;
+	box-shadow: 3px 3px 4px;
+}
+
+#collections {
+	background-color: black;
+	color: white;
+	margin: 5%;
+	flex-wrap: wrap;
+}
+
+#im {
+	display: flex ;
+	height: 100 %;
+	width: 100%;
+}
+
+.space {
+	margin: 4%;
+}
+
+#acc {
+	background-color: black;
+	color: white;
+	margin: 5%;
+	text-align: center;
+}
+
+.im2 {
+	display: flex;
+	height: 60%;
+	width: 60%;
+	text-align: center;
+}
+
+.btn {
+	text-decoration: none;
+	width: 100px;
+	margin: 1.5%;
+	border-radius: 10px;
+	background-color: black;
+	color: white;
+}
+
+a {
+	text-decoration: none;
+	width: 70px;
+	margin: 1%;
+	color: white;
+}
